@@ -1,2 +1,2 @@
 print ("Hello World!")
-print ("HyperionDev is Awesome")
+print ("HyperionDev is Awesome.")
